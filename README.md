@@ -1,1 +1,1 @@
-# trajectory_design_lecture_note
+# 軌道設計に関する実践講義のためのノートブック
