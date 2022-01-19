@@ -6,14 +6,15 @@ Binder（オンライン）上で動作するJupyter Notebookは，以下のバ�
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naoyaozaki/astrodynamics_lecture_note/HEAD)
 
-# Requirement
+# Requirements
  
-* python=3.8.3
-* numpy>=1.18.5
-* scipy>=1.5.0
-* matplotlib>=3.2.2
-* pykep>=2.5.1
-* spiceypy>=3.1.1
+* numpy==1.20.2
+* scipy==1.6.2
+* matplotlib==3.4.2
+* urllib3==1.25.11
+* plotly==4.14.3
+* pykep==2.6
+* spiceypy==4.0.0
 
 `spiceypy`を用いて，天体の軌道歴を取得するためには，Generic Kernelsを読み込む（Furnishする）必要があります．
  
