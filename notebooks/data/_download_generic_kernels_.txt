@@ -1,0 +1,1 @@
+Please download SPICE generic kernels from the website (https://naif.jpl.nasa.gov/naif/data_generic.html) and put the files here.
