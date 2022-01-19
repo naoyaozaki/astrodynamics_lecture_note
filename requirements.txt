@@ -2,11 +2,6 @@ numpy==1.20.2
 scipy==1.6.2
 matplotlib==3.4.2
 urllib3==1.25.11
-ipywidgets==7.6.3
-jupyterlab>=3
-jupyter_server_proxy
-jupyter-dash
-notebook>=5.3
 plotly==4.14.3
 pykep==2.6
 spiceypy==4.0.0
