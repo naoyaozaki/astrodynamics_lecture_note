@@ -8,6 +8,7 @@ Binder（オンライン）上で動作するJupyter Notebookは，以下のバ�
 
 # Requirements
  
+* python==3.6 or 3.7 or 3.8 (For `pykep`)
 * numpy==1.20.2
 * scipy==1.6.2
 * matplotlib==3.4.2
