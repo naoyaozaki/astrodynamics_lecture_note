@@ -1,2 +1,5 @@
 notebooks/data/*.bsp
 notebooks/data/*.tls
+
+# For Julia Language
+Manifest.toml
