@@ -2,9 +2,12 @@
 
 Jupyter Notebook (Python)を用いて，宇宙軌道力学に関する実践的な内容をノートブックをまとめています．航空宇宙工学を専攻する学部生を対象としています．
 
-Binder（オンライン）上で動作するJupyter Notebookは，以下のバッジをクリックすることで利用できる：
+Google Colab上で動作するJupyter Notebookは，以下のバッジをクリックすることで利用できる：
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naoyaozaki/astrodynamics_lecture_note/HEAD)
+| ノートブック | Google Colab | 
+| :--- | :--- | 
+| 軌道伝播| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoyaozaki/astrodynamics_lecture_note/blob/main/notebooks/propagation.ipynb) | 
+
 
 # Requirements
  
