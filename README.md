@@ -6,7 +6,8 @@ Google Colab上で動作するJupyter Notebookは，以下のバッジをクリ�
 
 | 内容 | ノートブック | Google Colab | 
 | :--- | :--- | :--- | 
-| 軌道伝播| propagation.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoyaozaki/astrodynamics_lecture_note/blob/main/notebooks/propagation.ipynb) | 
+| 高校数学で学ぶ軌道伝播 | propagation_for_highschool.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoyaozaki/astrodynamics_lecture_note/blob/main/notebooks/propagation_for_highschool.ipynb) | 
+| 軌道伝播 | propagation.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoyaozaki/astrodynamics_lecture_note/blob/main/notebooks/propagation.ipynb) | 
 | 状態遷移行列計算 | state_transition_matrix.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoyaozaki/astrodynamics_lecture_note/blob/main/notebooks/state_transition_matrix.ipynb) | 
 
 
